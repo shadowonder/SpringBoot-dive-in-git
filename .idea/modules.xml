@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot-dive-in.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot-dive-in.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-study-autowired/springboot-study-autowired.iml" filepath="$PROJECT_DIR$/springboot-study-autowired/springboot-study-autowired.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-study-data/springboot-study-data.iml" filepath="$PROJECT_DIR$/springboot-study-data/springboot-study-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-study-web/springboot-study-web.iml" filepath="$PROJECT_DIR$/springboot-study-web/springboot-study-web.iml" />
+    </modules>
+  </component>
+</project>

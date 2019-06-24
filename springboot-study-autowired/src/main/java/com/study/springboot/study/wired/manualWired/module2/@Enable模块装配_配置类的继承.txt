@@ -1,0 +1,13 @@
+@Enable模块装配
+具备相同领域的功能组件集合，组合成一个独立的单元加以封装
+
+比如：
+    @EnableWebMvc @EnableAutoConfiguration
+
+实现：
+    注解实现方式
+    编程方式(定义接口方式)
+
+
+HelloWorldImportSelector -> HelloWorldConfiguration -> HelloWorldBean
+
